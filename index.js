@@ -24,6 +24,10 @@ function alternateCapsReverse(str) {
   return finalStr;
 }
 
+app.get("/", (req, res) => {
+  res.send("BFHL Test API made by Abhishek Jain \nRoll Number: 22BEC0237\nEmail: abhishek.jain2022@vitstudent.ac.in");
+});
+
 //bfhl api endpoint
 app.post("/bfhl", (req, res) => {
   try {
