@@ -15,9 +15,9 @@ The task was to build and host a REST API (method: POST) that takes in an array 
 
 ## 🌐 Links
 - **Hosted API Endpoint:** [https://bfhlapiabhishekjain22bec0237.vercel.app/bfhl](https://bfhlapiabhishekjain22bec0237.vercel.app/bfhl)  
-- **Portfolio:** [https://abhishekjain.me](https://abhishekjain.vercel.app)  
+- **Portfolio:** [https://abhishekjain.vercel.app](https://abhishekjain.vercel.app)  
 - **LinkedIn:** [https://www.linkedin.com/in/abhishekk-jainn/](https://www.linkedin.com/in/abhishekk-jainn/)  
-- **GitHub:** [https://github.com/abhishekjain22](https://github.com/Abhishekkjainn/)  
+- **GitHub:** [https://github.com/Abhishekkjainn](https://github.com/Abhishekkjainn/)  
 
 
 ---
