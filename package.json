@@ -1,0 +1,21 @@
+{
+  "name": "bfhlapi",
+  "version": "1.0.0",
+  "description": "BFHL Test API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "BFHL",
+    "TEST",
+    "API"
+  ],
+  "author": "Abhishek Jain 22BEC0237",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
